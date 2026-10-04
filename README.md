@@ -711,6 +711,33 @@ Windows-Endpoint-Threat-Detection-Investigation-Lab/
     └── 003-file-execution/
 ```
 
+## Lab Environment
+
+### VirtualBox Environment
+
+![VirtualBox Overview](screenshots/00-environment/01-virtualbox-overview.png)
+
+![VirtualBox System Configuration](screenshots/00-environment/02-virtualbox-system.png)
+
+![VirtualBox Network Configuration](screenshots/00-environment/03-virtualbox-network.png)
+
+### Windows Environment
+
+![Windows System Information](screenshots/00-environment/04-windows-msinfo32.png)
+
+![Windows Version](screenshots/00-environment/05-windows-version.png)
+
+
+## Sysmon Deployment
+
+### Sysmon Service Running
+
+![Sysmon Service Running](screenshots/01-lab-setup/02-sysmon-service-running.png)
+
+### Sysmon Operational Log
+
+![Sysmon Operational Log](screenshots/01-lab-setup/03-sysmon-operational-log.png)
+
 ### Directory Responsibilities
 
 | Directory | Purpose |
